@@ -79,7 +79,7 @@ nav ul li a{
   background: var(--background-color);
 }
 
-.nav a:hover,.logox a:hover, a.activex,a:hover,.nav a.activex{
+button:hover,.nav a:hover,.logox a:hover, a.activex,a:hover,.nav a.activex{
   background: #1b9bff;
   transition: .5s;
 }
