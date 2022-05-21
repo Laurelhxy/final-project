@@ -73,8 +73,8 @@ nav ul li a{
 }
 .nav ul li a{
   color: white;
-  font-size: 15px;
-  padding: 7px 3px;
+  font-size: 14px;
+  padding: 7px 2px;
   border-radius: 3px;
   background: var(--background-color);
 }
