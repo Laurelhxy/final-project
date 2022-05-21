@@ -93,7 +93,7 @@ let url = "https://medium.com/";
 let user_id = "jagathish1123";
 let hash_tags = "WeightConverter,DistanceCoverter,VolumeConverter,Temperature";
 let params = "menubar=no,toolbar=no,status=no,width=570,height=570"; // for window
-let desc="share this great tool";
+let desc="share this great tool:https://laurelhxy.github.io/final-project/home.html";
 let facebook = document.querySelector('.facebook');
 let twitter = document.querySelector('.twitter');
 let email=document.querySelector('.email');
